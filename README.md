@@ -1,5 +1,6 @@
 # People_Counter_and_Tracking
 
+
 # Human Detection and Tracking using YOLOv8 and SORT Algorithm
 
 This project implements human detection and tracking using the YOLOv8 model and the SORT tracking algorithm. The system detects people in a video and tracks their movement frame by frame, assigning unique IDs to individuals and counting the number of people in the scene.
